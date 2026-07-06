@@ -6,6 +6,8 @@ description: "Trust has nothing to do with a still life. It starts when you move
 draft: false
 ---
 
+![Trust Starts When Motion Starts](/trust_motion.jpg)
+
 I trust myself. As in: put a chocolate bar in front of me and, sooner rather than later, I'll take a bite.
 
 I trust the world. As in: put me in front of the world and, sooner rather than later, the world will take a bite.
