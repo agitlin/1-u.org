@@ -3,7 +3,7 @@ title: "About"
 date: "2026-06-04"
 tags: [about]
 description: "About 1-u.org — the One You project."
-draft: false
+draft: true
 ---
 
 There is only one you.

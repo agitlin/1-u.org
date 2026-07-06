@@ -6,13 +6,15 @@ description: "Not a weird death — a death of the Weird. Time to add one more d
 draft: false
 ---
 
+![Weird, Death and Taxes](/weird_death_taxes.jpg)
+
 Not a weird death. A death of the Weird. That's the accurate diagnosis at the end of most of my days.
 
 For a long stretch now you've been dealing with one type of certainty: taxes. The tax of family. The tax of relationships, of career, of the healthy diet, of 10K steps, of lifting heavy, of brushing your teeth. The tax of being social, of fitting in, of being a good boy. The volume keeps growing, and the better you get at paying, the more your weirdness dies its slow death. Every night. Every weekend.
 
 It did not start out this way. Your Weird was how you found out who you are and who you wanted to be with. How you differ from everyone else, how far you deviate from normal. Embracing your Weird was a way to assert your distance from death — and to find the people who would vibe with it.
 
-Then the race to pay the taxes crowded it out, and at first that even looked like a badge of honor: [adulting](/articles/being-the-grownup), common sense. But the Weird was dying. First in closed spaces, because that's where the taxes get discussed. Then in open spaces too — because if there's no room for the Weird in the close space between the closest people, why bring it out toward strangers?
+Then the race to pay the taxes crowded it out, and at first that even looked like a badge of honor: adulting, common sense. But the Weird was dying. First in closed spaces, because that's where the taxes get discussed. Then in open spaces too — because if there's no room for the Weird in the close space between the closest people, why bring it out toward strangers?
 
 And then it started dying in a space that is not a space at all: between you and yourself. As if the best expression of the unsaid is what someone else already said. As if the most expressive thing left is to scroll a little more when everything is said and done — and no weird was said, and no weird was done.
 

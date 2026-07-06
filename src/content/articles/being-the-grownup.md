@@ -3,6 +3,7 @@ title: "Being the Grownup"
 date: "2026-04-21"
 tags: [identity, resilience, sovereignty, values]
 description: "Having yourself is not a consolation prize. It's a kind of fullness."
+draft: true
 ---
 
 A remarkable day — gym, bread, cooking, errands, swimming, walking the dog through the park, assembling a hammock, hanging a seven-meter flag. Most of it done alone.

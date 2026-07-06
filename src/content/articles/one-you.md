@@ -3,6 +3,7 @@ title: "One You"
 date: "2026-05-15"
 tags: [identity, purpose, health, philosophy]
 description: "There is only one you. The work of attending to that person is not selfishness — it is the prerequisite for everything else."
+draft: true
 ---
 
 Just got a 1-u.org domain.

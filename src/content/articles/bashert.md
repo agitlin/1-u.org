@@ -3,6 +3,7 @@ title: "Bashert — The Life of Truth, Not Convenience"
 date: "2026-01-25"
 tags: [values, courage, identity, philosophy]
 description: "The word 'bashert' provides a harder and more meaningful alternative to a life of convenience. Aiming higher creates a pull that keeps you from settling for the easy exit."
+draft: true
 ---
 
 I want the life of truth, not the life of convenience.

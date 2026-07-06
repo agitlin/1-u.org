@@ -3,6 +3,7 @@ title: "Morning Walk Sovereignty"
 date: "2026-02-16"
 tags: [sovereignty, values, identity, philosophy]
 description: "Sovereignty: putting yourself first not as selfishness but as the necessary precondition for everything that follows."
+draft: true
 ---
 
 On the morning walk, things are quite simple. I am not tempted, not intimidated, not distracted. I just am.

@@ -3,6 +3,7 @@ title: "Connected, Curious, Alive"
 date: "2026-04-16"
 tags: [identity, values, curiosity, philosophy]
 description: "Living from your own center: what it feels like when you stop seeing yourself as a problem to solve."
+draft: true
 ---
 
 Almost 1 am. Writing because I feel engaged, curious, inspired, happy, excited, connected, valued, special, alive — all the ways I like to feel.

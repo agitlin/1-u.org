@@ -3,6 +3,7 @@ title: "On Performing When Tired"
 date: "2026-05-11"
 tags: [resilience, values, energy, leadership]
 description: "The dog doesn't care about your reasons. He reads your state. Leadership is finding the grounded part of yourself that still exists underneath the tiredness."
+draft: true
 ---
 
 From a letter to a dog trainer — but the insight applies well beyond dog training:
