@@ -18,6 +18,6 @@ Then the race to pay the taxes crowded it out, and at first that even looked lik
 
 And then it started dying in a space that is not a space at all: between you and yourself. As if the best expression of the unsaid is what someone else already said. As if the most expressive thing left is to scroll a little more when everything is said and done — and no weird was said, and no weird was done.
 
-So here is the proposal, in the only language you understand now: pay the weird tax. Every day. Like brushing teeth. Like lifting heavy. Like 10K steps. 10CC of your Weird, until the day of your weird death.
+So here is the proposal, in the only language you understand now: pay the weird tax. Every day. Like brushing teeth. Like lifting heavy. Like [10K steps](/articles/trust-starts-when-motion-starts). 10CC of your Weird, until the day of your weird death.
 
 What does today's 10CC look like? Go.
