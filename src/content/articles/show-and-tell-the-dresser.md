@@ -1,12 +1,16 @@
 ---
 title: "Show and Tell: The Dresser"
-date: "2026-08-04"
-tags: [show-and-tell, objects, simplicity, philosophy]
-description: "The one thing I own that I will never optimize — a meditation on a full drawer and a bounded life."
-draft: true
+date: 2026-08-04
+description: The one thing I own that I will never optimize — a meditation on a
+  full drawer and a bounded life.
+tags:
+  - show-and-tell
+  - objects
+  - simplicity
+  - philosophy
+draft: false
 ---
 
-<!-- image of the dresser goes here -->
 
 I wanted to write about folding laundry. It did not take long, but it did bring me back to this page.
 
