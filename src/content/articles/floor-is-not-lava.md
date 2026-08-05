@@ -3,8 +3,10 @@ title: "The Floor Is Not Lava"
 date: "2026-08-05"
 tags: [identity, resilience, self-compassion, values]
 description: "The game we all keep playing as grownups — and why you can step down."
-draft: true
+draft: false
 ---
+
+![The Floor Is Not Lava](/floor_not_lava.jpg)
 
 When we were kids there was a game. Floor is lava. Tag with a twist: you can't touch the floor. It was so much fun. If you can't step on the floor you have to jump from the couch to the armchair to the dresser to dad's chair to the table to the squeaky chair to the bench and back. If you hit the floor you burn, baby, burn.
 
